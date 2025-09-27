@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Pratap</h1>
 <h3 align="center">Turning coffee ♨️ into clean commits.</h3>
 
@@ -73,5 +74,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratap-03&theme=tokyonight" alt="pratap-03" />
+  <img align="center"
+       src="https://streak-stats.vercel.app/?user=pratap-03&theme=tokyonight&fire=FF4500&background=0b0710&border=FF4500&stroke=FF4500"
+       alt="pratap-03" />
 </p>
